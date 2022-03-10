@@ -1,6 +1,4 @@
-Olá, sou @ charlitonlucas
-Estou interessado em aprender desenvolvimento web Back End.
-Atualmente estou aprendendo javascript;entre em contato comigo pelo linkedin.
+Este espaço é dedicado a postagem dos meus projetos web.
 
 <!--
 **charlitonlucas/charlitonlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
